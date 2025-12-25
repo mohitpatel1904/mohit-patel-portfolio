@@ -295,7 +295,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "Selenium", "XPath", "CSV", "BeautifulSoup"],
     image: {
       asset: {
-        url: "/projects/project-1.webp",
+        url: "/mohit-patel-portfolio/projects/project-1.webp",
       },
     },
     links: [
@@ -323,7 +323,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "Selenium", "Multi-Site Logic", "Dataset Structuring"],
     image: {
       asset: {
-        url: "/projects/project-2.webp",
+        url: "/mohit-patel-portfolio/projects/project-2.webp",
       },
     },
     links: [
@@ -351,7 +351,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "Selenium", "API Integration", "CSV", "Metadata Extraction"],
     image: {
       asset: {
-        url: "/projects/project-3.webp",
+        url: "/mohit-patel-portfolio/projects/project-3.webp",
       },
     },
     links: [
@@ -379,7 +379,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "Selenium", "Pagination", "Image Processing", "CSV"],
     image: {
       asset: {
-        url: "/projects/project-4.webp",
+        url: "/mohit-patel-portfolio/projects/project-4.webp",
       },
     },
     links: [
@@ -407,7 +407,7 @@ export const PROJECTS: Project[] = [
     technologies: ["Python", "Selenium", "Perceptual Hashing", "Infinite Scroll", "CSV"],
     image: {
       asset: {
-        url: "/projects/project-5.webp",
+        url: "/mohit-patel-portfolio/projects/project-5.webp",
       },
     },
     links: [
