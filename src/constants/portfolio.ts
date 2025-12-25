@@ -182,7 +182,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
         ],
       },
     ],
-    url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/Article_link",
+    url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/img",
   },
   {
     _id: "work-3",
@@ -301,7 +301,7 @@ export const PROJECTS: Project[] = [
     links: [
       {
         title: "Source Code",
-        url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/Article_link",
+        url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/img",
         type: "code",
       },
     ],
@@ -329,7 +329,7 @@ export const PROJECTS: Project[] = [
     links: [
       {
         title: "Source Code",
-        url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/Article_link",
+        url: "https://github.com/mohitpatel1904/Selenium-Experience/tree/main/img",
         type: "code",
       },
     ],
